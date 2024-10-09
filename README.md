@@ -35,7 +35,7 @@ Widget build(BuildContext context) {
       ),
     );
   }
-
+```
 ## Tampilan Halaman Registrasi Ketika Sudah Berhasil
 
 ![image](https://github.com/user-attachments/assets/eae1a4d0-86e2-465c-a6e0-08dcc355a879)
@@ -58,7 +58,7 @@ RegistrasiBloc.registrasi(
     )
   );
 });
-
+```
 ## Tampilan Login Page
 
 ![WhatsApp Image 2024-10-09 at 17 36 17_34830b3c](https://github.com/user-attachments/assets/850ab669-4bb8-40b8-b5f3-1c1ba81cac95)
@@ -91,7 +91,7 @@ Setelah berhasil melakukan registrasi pengguna di arahkan menuju ke login page. 
       ),
     );
   }
-
+```
 ![WhatsApp Image 2024-10-09 at 16 02 12_52f5c5fe](https://github.com/user-attachments/assets/16457398-721f-4ac7-a5aa-65491cefe382)
 
 Jika pengguna salah mencantumkan email/password maka akan muncul alert seperti ini. Alert tersebut di dapatkan dari kode di bawah ini
@@ -114,7 +114,7 @@ else {
               ));
     });
   }
-
+```
 ## Tampilan Produk Page
 
 ![WhatsApp Image 2024-10-09 at 17 36 33_4d1ae001](https://github.com/user-attachments/assets/e940292c-929b-4463-9f4f-8959b62f2eed)
@@ -133,7 +133,7 @@ actions: [
                 },
               ))
         ],
-
+```
 ## Tampilan Tambah Produk
 
 ![WhatsApp Image 2024-10-09 at 17 37 56_19613ab6](https://github.com/user-attachments/assets/ce807a85-3ae0-4864-8f4f-0f1489150363)
@@ -182,7 +182,7 @@ class _ProdukFormState extends State<ProdukForm> {
       _isLoading = false;
     });
   }}
-
+```
 # Tampilan Produk Page (Ketika Sudah Ada Isinya)
 
 ![image](https://github.com/user-attachments/assets/a8749ecb-9751-40f7-91ec-20789c5199b8)
@@ -245,7 +245,7 @@ class ItemProduk extends StatelessWidget {
     );
   }
 }
-
+```
 ## Tampilan Detail Produk
 
 ![WhatsApp Image 2024-10-09 at 17 40 25_4f505597](https://github.com/user-attachments/assets/7ee1808a-32f0-4837-ab88-bea267efba1a)
@@ -277,7 +277,7 @@ Widget build(BuildContext context) {
       ),
     );
   }
-
+```
  ## Tampilan Edit Produk
 
   ![WhatsApp Image 2024-10-09 at 17 38 31_6155f088](https://github.com/user-attachments/assets/3d0d4c8c-df33-48ea-a2c4-58eb82b41196)
@@ -336,7 +336,7 @@ Widget build(BuildContext context) {
                 //kondisi update produk
                 ubah();
               }
-
+```
 ## Tampilan Hapus Produk
 
 ![WhatsApp Image 2024-10-09 at 17 38 54_7c7cae44](https://github.com/user-attachments/assets/760a0338-381a-4017-9454-58f8e0033806)
@@ -375,7 +375,7 @@ Kode dapat di lihat di bawah ini
     showDialog(builder: (context) => alertDialog, context: context);
   }
 }
-
+```
 ## Tampilan Logout Page
 
 ![image](https://github.com/user-attachments/assets/ce9f424c-bd10-4186-8e96-0ac2c9b5a508)
@@ -396,3 +396,4 @@ children: [
               },
             )
           ],
+```
