@@ -249,6 +249,7 @@ class ItemProduk extends StatelessWidget {
 ## Tampilan Detail Produk
 
 ![WhatsApp Image 2024-10-09 at 17 40 25_4f505597](https://github.com/user-attachments/assets/7ee1808a-32f0-4837-ab88-bea267efba1a)
+
 Ketika pengguna menekan produknya maka rincian dari produk tersebut akan ditampilkan. Tampilan tersebut berasal dari kode di bawah ini 
 ```dart
 Widget build(BuildContext context) {
