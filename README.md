@@ -1,8 +1,8 @@
 # Tugas Pertemuan 5
 
-**Nama**: Destian Ardan Alfatanu  
-**NIM**: H1D022045  
-**Shift**: E  
+**Nama**  : Destian Ardan Alfatanu  
+**NIM**   : H1D022045  
+**Shift** : E  
 
 ## Tampilan Registrasi Page
 Sebelum melakukan login, pengguna harus melakukan registrasi terlebih dahulu. Tampilan registrasi di bawah ini diperoleh dari kode di bawah gambar.
