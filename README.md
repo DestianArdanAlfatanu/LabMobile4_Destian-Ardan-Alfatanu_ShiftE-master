@@ -119,8 +119,8 @@ else {
 
 ![WhatsApp Image 2024-10-09 at 17 36 33_4d1ae001](https://github.com/user-attachments/assets/e940292c-929b-4463-9f4f-8959b62f2eed)
 
-Ketika pengguna sudah berhasil login langsung di arahkan ke halaman utama yaitu produk page. Gambar diatas menunjukkan halaman yang masih kosong. 
-Untuk menambahkan list produk bisa klik tanda + di kanan atas. berikut kode nya
+Ketika pengguna sudah berhasil login langsung di arahkan ke halaman utama yaitu produk page. 
+Gambar diatas menunjukkan halaman yang masih kosong. Untuk menambahkan list produk bisa klik tanda + di kanan atas. berikut kode nya
 ```dart
 actions: [
           Padding(
